@@ -1,5 +1,5 @@
 # GARCH-EVT-VineCopula
-My code to create a simulation based on GARCH-EVT-VineCopula
+My code to create a simulation based on GARCH-EVT-VineCopula.
 Please cite my paper if you use these codes:
 Mappadang, A., Nugroho, B. A., Lestari, S. D., Elizabeth, & Lestari, T. K. (2024). 
 Measuring value-at-risk and expected shortfall of newer cryptocurrencies: new insights. 
